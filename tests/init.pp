@@ -1,1 +1,1 @@
-include openjdk-6-jre
+include openjdk_6_jre
