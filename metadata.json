@@ -10,7 +10,7 @@
   "checksums": {
     "Modulefile": "a5e2ec47db80493ba2113a27adb53bf5",
     "README": "39132eab313684b80ce9762d0005c645",
-    "manifests/init.pp": "34ac022582c5cd33312a907c8e28541e",
+    "manifests/init.pp": "8074316419589689e34650078191666b",
     "modules/java/CHANGELOG": "abf0749d460913fd60638cecc3a3c346",
     "modules/java/LICENSE": "3098b034ffe72e76d5dc3799c825d730",
     "modules/java/Modulefile": "3069015f91f518ed7d178485e99e0d49",
